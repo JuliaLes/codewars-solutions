@@ -1,6 +1,6 @@
 # codewars-solutions
 
-This repo contains a few examples of my solutions to Codewars.com challenges.
+This repository contains a few examples of my solutions to Codewars.com challenges.
 
 You can view my Codewars profile at https://www.codewars.com/users/JCLes92, which provides a summary of my endeavors.
 
