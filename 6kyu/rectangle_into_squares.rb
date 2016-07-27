@@ -2,9 +2,10 @@
 # https://www.codewars.com/kata/rectangle-into-squares/ruby
 
 # SUMMARY
-# A true rectangle can cut into scquares.
+# A true rectangle can be cut into squares.
 # Given two dimesions, return an array 
 # with the size of each of the squares.
+# (see image at link for visualization)
 
 def sqInRectInner(length, width)
     max = [length, width].max
